@@ -1,0 +1,6 @@
+{
+  "name": "SMARTLAB – Unified Multi-Branch Coding & Faculty Monitoring",
+  "description": "An advanced multi-branch engineering college coding platform and faculty monitoring system featuring biometric face authentication, Monaco coding workspace, Judge0 & multi-language execution, quiz engine, and live proctoring.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
